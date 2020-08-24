@@ -1,0 +1,4 @@
+numpy==1.18.5
+Flask==1.1.2
+pip install "camelot-py[cv]"
+pip install tabula-py==2.1.1
